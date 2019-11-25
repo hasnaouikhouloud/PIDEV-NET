@@ -1,0 +1,10 @@
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.pdb
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Pidev.Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.dll
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev.Domain\bin\Debug\Pidev.Domain.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev.Domain\obj\Debug\Pidev.Domain.pdb

@@ -1,0 +1,10 @@
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\ServicePattern.dll.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\Data.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\Data.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\ServicePattern\obj\Debug\ServicePattern.pdb

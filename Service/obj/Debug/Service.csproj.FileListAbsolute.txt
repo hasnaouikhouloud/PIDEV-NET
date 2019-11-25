@@ -1,0 +1,21 @@
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\bin\Debug\Service.dll
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\bin\Debug\Service.pdb
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\bin\Debug\Data.dll
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\bin\Debug\Pidev.Domain.dll
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\bin\Debug\Data.pdb
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\bin\Debug\Pidev.Domain.pdb
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\obj\Debug\Service.dll
+c:\Users\Oussama\documents\visual studio 2015\Projects\Pidev\Service\obj\Debug\Service.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Service.dll.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Service.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Service.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Data.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Pidev.Domain.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\EntityFramework.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Data.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\Pidev.Domain.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\bin\Debug\EntityFramework.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\obj\Debug\Service.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Service\obj\Debug\Service.pdb

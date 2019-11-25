@@ -1,0 +1,72 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="Bootstrap Admin App">
+    <meta name="keywords" content="app, responsive, jquery, bootstrap, dashboard, admin">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>
+        @if (!string.IsNullOrWhiteSpace(ViewBag.Title))
+        {
+            @ViewBag.Title@: -
+        }
+       ADVYTEAM
+    </title>
+    <link rel="stylesheet" href="~/Content/vendor/%40fortawesome/fontawesome-free/css/brands.css">
+    <link rel="stylesheet" href="~/Content/vendor/%40fortawesome/fontawesome-free/css/regular.css">
+    <link rel="stylesheet" href="~/Content/vendor/%40fortawesome/fontawesome-free/css/solid.css">
+    <link rel="stylesheet" href="~/Content/vendor/%40fortawesome/fontawesome-free/css/fontawesome.css"><!-- SIMPLE LINE ICONS-->
+    <link rel="stylesheet" href="~/Content/vendor/simple-line-icons/css/simple-line-icons.css"><!-- ANIMATE.CSS-->
+    <link rel="stylesheet" href="~/Content/vendor/animate.css/animate.css"><!-- WHIRL (spinners)-->
+    <link rel="stylesheet" href="~/Content/vendor/whirl/dist/whirl.css"><!-- =============== PAGE VENDOR STYLES ===============-->
+    <!-- WEATHER ICONS-->
+    <link rel="stylesheet" href="~/Content/vendor/weather-icons/css/weather-icons.css"><!-- =============== BOOTSTRAP STYLES ===============-->
+    <link rel="stylesheet" href="~/Content/css/bootstrap.css" id="bscss"><!-- =============== APP STYLES ===============-->
+    <link rel="stylesheet" href="~/Content/css/app.css" id="maincss">
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+    <div class="wrapper">
+
+        @Html.Partial("_Header")
+
+        @Html.Partial("_Sidebar")
+        <div class="content-wrapper">
+            <section class="content-header">
+                <h1>
+                    @ViewBag.Title
+                    <small>@ViewBag.Description</small>
+                </h1>
+            </section>
+            <section class="content">
+                @RenderBody()
+            </section>
+        </div>
+        <footer class="footer-container"><span>&copy; 2019 - Advyteam</span></footer>
+    </div>
+   
+   
+    <script src="~/Content/vendor/modernizr/modernizr.custom.js"></script><!-- STORAGE API-->
+    <script src="~/Content/vendor/js-storage/js.storage.js"></script><!-- SCREENFULL-->
+    <script src="~/Content/vendor/screenfull/dist/screenfull.js"></script><!-- i18next-->
+    <script src="~/Content/vendor/i18next/i18next.js"></script>
+    <script src="~/Content/vendor/i18next-xhr-backend/i18nextXHRBackend.js"></script>
+    <script src="~/Content/vendor/jquery/dist/jquery.js"></script>
+    <script src="~/Content/vendor/popper.js/dist/umd/popper.js"></script>
+    <script src="~/Content/vendor/bootstrap/dist/js/bootstrap.js"></script><!-- =============== PAGE VENDOR SCRIPTS ===============-->
+    <!-- SLIMSCROLL-->
+    <script src="~/Content/vendor/jquery-slimscroll/jquery.slimscroll.js"></script><!-- SPARKLINE-->
+    <script src="~/Content/vendor/jquery-sparkline/jquery.sparkline.js"></script><!-- FLOT CHART-->
+    <script src="~/Content/vendor/flot/jquery.flot.js"></script>
+    <script src="~/Content/vendor/jquery.flot.tooltip/js/jquery.flot.tooltip.js"></script>
+    <script src="~/Content/vendor/flot/jquery.flot.resize.js"></script>
+    <script src="~/Content/vendor/flot/jquery.flot.pie.js"></script>
+    <script src="~/Content/vendor/flot/jquery.flot.time.js"></script>
+    <script src="~/Content/vendor/flot/jquery.flot.categories.js"></script>
+    <script src="~/Content/vendor/jquery.flot.spline/jquery.flot.spline.js"></script><!-- EASY PIE CHART-->
+    <script src="~/Content/vendor/easy-pie-chart/dist/jquery.easypiechart.js"></script><!-- MOMENT JS-->
+    <script src="~/Content/vendor/moment/min/moment-with-locales.js"></script><!-- =============== APP SCRIPTS ===============-->
+    <script src="~/Content/js/app.js"></script>
+</body>
+</html>

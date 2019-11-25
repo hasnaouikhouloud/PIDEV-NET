@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+
+<body>
+<a href="@Url.Action("Create", "Employee")">add new employe</a>
+    <table cellpadding="2" cellspacing="2" border="1">
+<tr>
+<th>Id</th>
+<th>Nom</th>
+<th>Prenom</th>
+<th>Departement</th>
+    </tr>
+@foreach(var p in ViewBag.result)
+{
+    <tr>
+<td>@p.Id</td>
+<td>@p.Nom</td>
+<td>@p.Prenom</td>
+<td>@p.Departement</td>
+
+    </tr>
+
+
+}
+
+
+
+    </table>
+
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\Data.dll.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\Data.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\Data.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\EntityFramework.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\MySql.Data.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\Pidev.Domain.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\Pidev.Domain.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\EntityFramework.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\MySql.Data.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\obj\Debug\Data.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Data\obj\Debug\Data.pdb

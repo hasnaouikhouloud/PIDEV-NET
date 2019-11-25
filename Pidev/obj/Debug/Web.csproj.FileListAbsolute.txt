@@ -1,0 +1,179 @@
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\ApplicationInsights.config
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\csc.exe
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\System.Collections.Immutable.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\vbc.exe
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\VBCSCompiler.exe
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\roslyn\VBCSCompiler.exe.config
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Pidev.dll.config
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Pidev.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Pidev.pdb
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Antlr3.Runtime.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\EntityFramework.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\EntityFramework.SqlServer.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.Web.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.WindowsServer.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.ApplicationInsights.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Google.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Web.Infrastructure.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Newtonsoft.Json.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Owin.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Pidev.Domain.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Service.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Helpers.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Mvc.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Optimization.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Razor.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.WebPages.Deployment.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.WebPages.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.WebPages.Razor.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\WebGrease.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Pidev.Domain.pdb
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Service.pdb
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.Web.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AI.WindowsServer.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.ApplicationInsights.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Helpers.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Mvc.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Optimization.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.Razor.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.WebPages.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.WebPages.Deployment.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\System.Web.WebPages.Razor.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Antlr3.Runtime.pdb
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Newtonsoft.Json.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\EntityFramework.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\EntityFramework.SqlServer.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Google.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\obj\Debug\Pidev.dll
+c:\users\oussama\documents\visual studio 2015\Projects\Pidev\Pidev\obj\Debug\Pidev.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\ApplicationInsights.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\csc.exe
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\vbc.exe
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Pidev.dll.config
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Pidev.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Pidev.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Antlr3.Runtime.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\EntityFramework.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\EntityFramework.SqlServer.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.Web.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Newtonsoft.Json.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Owin.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Pidev.Domain.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Service.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.Extensions.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.Formatting.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.Primitives.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.WebRequest.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Helpers.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Mvc.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Optimization.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Razor.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.WebPages.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.WebPages.Razor.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\WebGrease.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Pidev.Domain.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Service.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\EntityFramework.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\EntityFramework.SqlServer.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.Web.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Net.Http.WebRequest.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Helpers.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Mvc.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Optimization.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.Razor.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.WebPages.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\System.Web.WebPages.Razor.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Antlr3.Runtime.pdb
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Newtonsoft.Json.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\obj\Debug\Pidev.dll
+C:\Users\Khouloud\Desktop\4gl\pideev\Pidev\Pidev\obj\Debug\Pidev.pdb
